@@ -22,7 +22,7 @@ avatar_image: /img/profile_pic.jpeg
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/billglennon" Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/billglennon" # Add your linkedln handle
 github: "https://github.com/billglennon"  # Add your github handle
 
 paginate: 6
