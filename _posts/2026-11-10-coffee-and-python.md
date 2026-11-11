@@ -24,7 +24,7 @@ for day in lifetime:
     my_python_knowledge += 1
 ```
 
-Just so you really see how much I love Python, here is some code BUT with some colours for keywords & functionality!
+Just so you really see how much I love Python, here is some code BUT with some colors for keywords & functionality!
 
 ```python
 my_love_for_python = 0
